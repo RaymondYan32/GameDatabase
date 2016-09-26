@@ -1,0 +1,70 @@
+Abathur~Evolution Master~Melee Specialist~StarCraft~0~550~50~1.1445~0.105~0~0~0.0~0.0~1.43~18~2
+Abathur, the Evolution Master of Kerrigan's Swarm, works ceaselessly to improve the zerg from the genetic level up. His hate for chaos and imperfection almost rivals his hatred of pronouns.
+Anub'arak~Traitor King~Melee Warrior~WarCraft~10~800~180~1.668~0.375~500~10~3.0~0.098~1.0~45~9
+Once a proud nerubian king, Anub'arak dared to stand against the Lich King's invasion, but despite his bravery, he too fell to the unrelenting Scourge. Resurrected into undeath, the Traitor King now serves as a towering weapon of destruction.
+Arthas~The Lich King~Melee Warrior~WarCraft~7~1040~220~2.168~0.457~500~10~3.0~0.098~1.0~47~9
+Once the crown prince of Lordaeron, and protégé of Uther the Lightbringer, Arthas was corrupted by the cursed blade Frostmourne in a bid to save his people. Now he rules over the damned as the Lich King and all shall know his wrath.
+Azmodan~Lord of Sin~Specialist~Diablo~10~1060~260~2.207~0.543~500~10~3.0~0.098~1.0~34~8
+The Lord of Sin rules over a densely populated land of hell where both the greatest joys and despair, and the deepest depravities can be experienced. But it is never enough for Azmodan, who has set his eyes on the realm of Sanctuary.
+Brightwing~Faerie Dragon~Support~WarCraft~10~750~130~1.6132~0.27~500~10~3.0~0.098~1.11~34~8
+Like many Faerie Dragons, Brightwing is happiest darting around the forests of Ashenvale, healing friends, and then grabbing a light snack. By the way, did you know a human head only weighs ten pounds? Talk about light!
+Chen~Legendary Brewmaster~Melee Warrior~WarCraft~10~1040~240~2.168~0.5~100~0~0.0~0.0~1.11~50~7
+To be a Brewmaster is to be an explorer, a lover of nature, and when the need arises; a powerful fighter. For years Chen Stormstout has wandered the world of Azeroth in search of rare ingredients, stirring stories, and of course, good brew.
+Diablo~Lord of Terror~Melee Warrior~Diablo~7~1060~260~2.207~0.543~500~10~3.0~0.098~0.91~49~11
+Known in the ancient tongue as Al'Diabolos, the Prime Evil of Terror, the Demon Lord Diablo seeks to claim the world of Sanctuary for the Burning Hells. His victims are innumerable, his schemes unknowable, and his gender... malleable.
+E.T.C.~Rock God~Melee Warrior~WarCraft~2~1040~240~2.168~0.5~500~10~3.0~0.098~1.0~47~9
+The Power of the Horde incarnated by brutal rhythms and blistering guitar riffs into the most elite tauren chieftain to ever headbang across the surface of Azeroth. Don't bother putting on socks. He's just going to rock them off anyways.
+Falstad~WildHammer Thane~Assassin~WarCraft~7~710~120~1.4804~0.25~500~10~3.0~0.098~1.43~38~10
+Falstad is the High Thane of the Wildhammer Clan and a founding member of the Council of Three Hammers that presides over Ironforge. Despite speculation, Falstad has never been dead and anyone who claims such is a liar.
+Gazlowe~Boss of Ratchet~Melee Specialist~WarCraft~4~770~170~1.6054~0.355~500~10~3.0~0.098~1.25~37~9
+Few would consider Gazlowe a fighter, but what he lacks in height, he makes up in mechanical know-how. Besides, you don't get to be boss of a "boom"-town like Ratchet with just a charming personality, if you know what I mean.
+Illidan~The Betrayer~Melee Assassin~WarCraft~4~750~125~1.7304~0.262~500~10~3.0~0.098~1.67~30~7
+Illidan Stormrage, the first Demon Hunter, betrayed his people and created a new Well of Eternity after the demonic invasion of Azeroth. Now Illidan lords over Outland slaying unsuitably prepared Heroes who venture into his domain.
+Jaina~Archmage~Assassin~WarCraft~10~710~120~1.4804~0.25~500~10~3.0~0.098~1.0~42~8
+Once the apprentice of the Archmage Antonidas, Jaina Proudmoore led the survivors of Lordaeron to Kalimdor and founded the city of Theramore. Now, she serves the Alliance as a powerful voice fighting for reason and diplomacy
+Kerrigan~Queen of Blades~Melee Assassin~StarCraft~7~830~150~1.664~0.313~500~10~3.0~0.098~1.25~40~11
+Once a terran ghost with formidable psionic abilities, Sarah Kerrigan was betrayed by her allies and transformed into the Queen of Blades. Now freed of the dark one's corruption, Kerrigan faces a threat that could destroy the galaxy itself.
+Li Li~World Wanderer~Support~WarCraft~2~835~135~1.7382~0.281~500~10~3.0~0.098~1.25~25~6
+Born upon Shen-zin Su, the Wandering Isle, Li Li Stormstout led an uneventful life until she began reading her uncle Chen's journals. Soon, nothing would sate her desire for adventure, exploration, and pestering adventurers around Halfhill.
+Malfurion~Archdruid~Support~WarCraft~2~835~150~1.7382~0.313~500~10~3.0~0.098~1.11~33~6
+Malfurion Stormrage is the greatest druid on Azeroth, and a student of the demi-god Cenarius. Communing with nature and Cenarius through the Emerald dream, Malfurion protects the wilds from demonic influences.
+Muradin~Mountain King~Melee Warrior~WarCraft~2~1040~240~2.168~0.5~500~10~3.0~0.098~1.11~42~8
+Once a mentor to Prince Arthas, Muradin was unable to prevent his corruption. After recovering from a mild case of amnesia, he is now the leader of the Bronzebeard clan after the "diamond-ization" of his brother King Magni.
+Murky~Baby Murloc~Melee Specialist~WarCraft~10~250~60~10.0~2.398~500~10~3.0~0.098~1.25~18~6
+Mrgglglbrlg rmrmgllg mrggggm. Mrrglglgy, mgllglgl mgggrrmgl? MRGGGLGLLM! Mrrggllgggllggll mrrglrlg mrrg mrrg mrrrg.
+Nazeebo~Heretic Witch Doctor~Specialist~Diablo~10~740~150~1.539~0.313~500~10~3.0~0.098~1.11~41~8
+With cabalistic incantations and vestments of feather and bone, the Witch Doctor Nazeebo calls upon spirits from the Unformed Land to aid him. Few outlanders encounter a Witch Doctor in the flesh, without losing their own.
+Nova~Dominion Ghost~Assassin~StarCraft~10~700~110~1.457~0.227~500~10~3.0~0.098~1.0~40~10
+November "Nova" Terra is a ghost of the Terran Dominion and one of the most powerful psionic soldiers ever known. Nova is highly focused, determined, and extremely deadly. Even Jim Raynor wouldn't want to be caught within her crosshairs.
+Raynor~Renegade Commander~Assassin~StarCraft~2~725~120~1.5117~0.25~500~10~3.0~0.098~1.25~35~12
+Ex-Confederate Marshal James Raynor has stood against whatever the universe can throw at him and survived. He stands as a beacon of hope among enigmatic aliens and monsters, fighting for justice in a cold uncaring universe.
+Rehgar~Shaman of the Earthen Ring~Melee Support~WarCraft~7~880~190~1.832~0.395~500~10~3.0~0.098~1.25~37~9
+Rehgar Earthfury has seen his share of combat, both as a gladiator, and a master of his own team. Now, having put that life aside, he serves as a simple shaman of the Earthen Ring, earning his redemption by healing the lands of Azeroth.
+Sgt. Hammer~Siege Tank Operator~Specialist~StarCraft~7~720~140~1.5~0.289~500~10~3.0~0.098~1.0~44~13
+Sergeant Bama "the Hammer" Kowalski has served some of the toughest tours around the Koprulu sector. The roar of her siege tank's shock cannon strikes fear right into the heart of the toughest of warriors... including some of her allies.
+Sonya~Wandering Barbarian~Melee Warrior~Diablo~4~930~210~1.9375~0.438~100~0~0.0~0.0~1.25~40~8
+From the frozen Dreadlands of the north come the mighty Barbarian warriors. After surviving the destruction of her home and death of her tribe, Sonya wanders Sanctuary in search of battle and a better life for her people.
+Stitches~Terror of Darkshire~Melee Warrior~WarCraft~7~1060~230~2.207~0.477~500~10~3.0~0.098~0.91~48~6
+Take care when traversing the shadowed trails of Duskwood...Ever since Abercrombie the Embalmer unleashed his vile abomination upon Darkshire, Stitches has wandered the road aimlessly, hungering for the flesh of low level Alliance players.
+Sylvanas~The Banshee Queen~Specialist~WarCraft~10~720~130~1.461~0.27~500~10~3.0~0.098~1.67~30~7
+Sylvanas Windrunner was not always the Dark Lady of the Forsaken. In another life, she was the Ranger-General of Silvermoon. But that was before the Death Knight Arthas slew her and her people and raised her as the first Banshee.
+Tassadar~Savior of the Templar~Support~StarCraft~4~750~125~1.8125~0.262~500~10~3.0~0.098~1.0~32~6
+An Executor without equal, Tassadar has fought tirelessly to purify the Koprulu sector of zerg infestation. Only now, after learning to wield the power of the void, is Tassadar finally ready to face the Overmind and its all-consuming Swarm.
+Thrall~Warchief of the Horde~Melee Assassin~WarCraft~2~875~160~1.8242~0.322~500~10~3.0~0.098~0.91~55~17
+As a child, Thrall served the cruel Aedelas Blackmoore as a slave. After gaining his freedom, he guided the liberated orcs to a land of their own and worked to recover their ancient traditions. Now and forever he is the Warchief of the Horde.
+Tychus~Notorious Outlaw~Assassin~StarCraft~4~725~140~1.5117~0.289~500~10~3.0~0.098~4.0~20~4
+Tychus Findlay is a big man with a big ego and a bigger gun. Fortunately, his loyalty is easily won. Buy him a drink or three and promise him enough credits, and there's no job in the whole universe too dangerous for this outlaw.
+Tyrael~Archangel of Justice~Melee Warrior~Diablo~7~1020~220~2.125~0.457~500~10~3.0~0.098~1.25~37~7
+Among the angels it is the Archangel of Justice Tyrael who is humanity's greatest defender. Wielding his sword El'druin against the Burning Hells, the Prime Evils would have enslaved humanity long ago if Tyrael had not intervened.
+Tyrande~High Priestess of Elune~Support~WarCraft~7~635~150~1.3242~0.313~500~10~3.0~0.098~1.25~30~9
+Tyrande Whisperwind strikes fear into all who wish ill of the Kaldorei. As the highest ranking Sentinel and High Priestess of Elune, she is not only the Night Elves' most deadly warrior, but also their most cunning leader.
+Uther~The Lightbringer~Melee Support~WarCraft~7~890~190~1.8554~0.395~500~10~3.0~0.098~1.0~38~7
+The first paladin and founder of the Order of the Silver Hand, Uther the Lightbringer is a faithful servant of the Light. Dispensing justice with the swing of his hammer, Uther is a bastion of truth and an unflinching symbol of the Alliance.
+Valla~Demon Hunter~Assassin~Diablo~2~700~110~1.461~0.227~500~10~3.0~0.098~1.67~28~9
+Valla witnessed the ferocity of hellspawn firsthand as the demons ravaged her village and left her for dead. Now, with no people to call her own, her only allegiance is to her cause: to rid Sanctuary of the demonic filth corrupting its lands.
+Victor Jifcu~Example of added hero~Useless support~Real Life~0~1~1~0.0~0.0~0~0~0.0~0.0~0.0~0~0
+Hello I am Victor and I am a cheeky scrub
+Zagara~Broodmother of the Swamr~Specialist~StarCraft~7~750~150~1.5117~0.313~500~10~3.0~0.098~1.25~37~9
+If Kerrigan is the Queen of the Zerg, then Zagara is the mother of the brood. Cunning and tenacious, she commands her minions on the field of battle. Encounter her brood and beware: Mess with her children, and you answer to mama.
+Zeratul~Dark Prelate~Melee Assassin~StarCraft~10~820~135~1.707~0.281~500~10~3.0~0.098~1.11~47~13
+The enigmatic Dark Templar Zeratul serves the Xel'Naga. While he expertly wields the power of the Void, it is his wisdom that earns him the respect of the Koprulu sector's leaders - despite his penchant for dramatic entrances.
