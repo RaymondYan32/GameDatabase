@@ -1,5 +1,6 @@
 # GameDatabase
 A database created for Blizzard Entertainment Heroes of the Storm 
+
 information is not up to date as the database has not been updated since 2015
 
 To use:
